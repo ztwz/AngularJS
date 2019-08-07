@@ -10,5 +10,7 @@ AngularJS 打包apk小米，华为等手机不能正常运行出错
 
 3）
 cordova clean
+
 cordova build (This step only generates one apk, armv7)
+
 cordova run --devices
